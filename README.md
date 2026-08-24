@@ -1,6 +1,6 @@
 #  Olá! Eu sou Marienny Azevedo
 
-###  Desenvolvedora em formação | Estudante de Sistemas de Informação
+###  Desenvolvedora em formação | Estudante de Sistemas de Informação e Técnico em Informática para Internet
 
 Sou estudante de **Sistemas de Informação** e **Técnico em Informática para Internet**, apaixonada por tecnologia e desenvolvimento de software.
 
