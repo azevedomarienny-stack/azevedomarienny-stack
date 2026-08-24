@@ -139,31 +139,6 @@ Tenho interesse principalmente em oportunidades envolvendo:
 *  Infraestrutura de TI
 *  Tecnologia e Segurança
 
----
-
-##  GitHub
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=azevedomarienny-stack&show_icons=true&locale=pt-br&hide_border=true" 
-  alt="Estatísticas do GitHub de Marienny"
-  />
-
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs?username=azevedomarienny-stack&layout=compact&locale=pt-br&hide_border=true" 
- alt="Linguagens mais utilizadas por Marienny"
-/>
-
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=azevedomarienny-stack&hide_border=true" 
-    alt="GitHub Streak de Marienny"
-  />
-</p>
 
 ---
 
@@ -200,7 +175,7 @@ Tenho interesse principalmente em oportunidades envolvendo:
 
 </p>
 
-📄 **[Acesse meu currículo](https://drive.google.com/file/d/1yGnNKO0qkyw1_gfzLFMp1Vypb0T8sQ6H/view)**
+📄 **[Meu currículo](https://drive.google.com/file/d/1yGnNKO0qkyw1_gfzLFMp1Vypb0T8sQ6H/view)**
 
 ---
 
