@@ -1,10 +1,10 @@
 #  Olá! Eu sou Marienny Azevedo
 
-### 💻 Desenvolvedora em formação | Estudante de Sistemas de Informação
+###  Desenvolvedora em formação | Estudante de Sistemas de Informação
 
 Sou estudante de **Sistemas de Informação** e **Técnico em Informática para Internet**, apaixonada por tecnologia e desenvolvimento de software.
 
-Atualmente estou construindo minha experiência por meio de projetos práticos, estudando novas tecnologias e buscando minha primeira oportunidade profissional na área de **TI**.
+Atualmente estou desenvolvendo minha experiência por meio de projetos práticos, estudando novas tecnologias e buscando minha primeira oportunidade profissional na área de **Tecnologia da Informação**.
 
 ---
 
@@ -14,8 +14,9 @@ Atualmente estou construindo minha experiência por meio de projetos práticos, 
 *  Formação técnica em **Informática para Internet**
 *  Atualmente estudando **Java, PHP e COBOL**
 *  Em busca de **estágio na área de Tecnologia da Informação**
-*  Interessada em **desenvolvimento de software, infraestrutura, bancos de dados e tecnologia**
-*  Gosto de aprender através de projetos práticos e receber feedback sobre meus códigos
+*  Interesse em **desenvolvimento de software, infraestrutura, bancos de dados e cloud**
+*  Gosto de aprender por meio de projetos práticos
+*  Aberta a feedbacks que possam melhorar meus conhecimentos e meus códigos
 *  Sempre buscando evoluir minhas habilidades técnicas
 *  Fun fact: sou comunicativa, curiosa e gosto de transformar ideias em projetos
 
@@ -47,7 +48,7 @@ Atualmente estou construindo minha experiência por meio de projetos práticos, 
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,vscode" />
 </p>
 
-###  Design e prototipação
+###  Design
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
@@ -63,9 +64,9 @@ Portal turístico desenvolvido utilizando:
 
 **HTML5 • CSS3 • JavaScript • Bootstrap • OpenWeatherMap API**
 
-Projeto desenvolvido com foco em interface, responsividade, consumo de API e organização de páginas web.
+Projeto desenvolvido com foco em **desenvolvimento web, responsividade, consumo de API e organização de interfaces**.
 
-🔗 [Ver projeto no GitHub]([https://github.com/azevedomarienny-stac](https://github.com/azevedomarienny-stack/Bairro-do-Limoeiro-para-Turistar))
+🔗 [Ver projeto no GitHub](https://github.com/azevedomarienny-stack/Bairro-do-Limoeiro-para-Turistar)
 
 ---
 
@@ -75,47 +76,51 @@ Sistema desenvolvido em **Python** com banco de dados **SQLite**, incluindo aute
 
 **Python • SQLite • bcrypt**
 
-🔗 [Ver meus projetos]([https://github.com/azevedomarienny-stack](https://github.com/azevedomarienny-stack/Sistema-de-Login-e-Gerenciamento-de-Usu-rios))
+🔗 [Ver projeto no GitHub](https://github.com/azevedomarienny-stack/Sistema-de-Login-e-Gerenciamento-de-Usu-rios)
 
 ---
 
 ###  Sistema de Recursos Humanos
 
-Projeto desenvolvido em Python com foco na aplicação de conceitos de programação orientada a objetos e gerenciamento de informações.
+Sistema desenvolvido em Python com foco na aplicação de conceitos de **Programação Orientada a Objetos** e gerenciamento de informações.
 
 **Python • POO**
 
-🔗 [Ver meus projetos]([https://github.com/azevedomarienny-stack](https://github.com/azevedomarienny-stack/sistema-rh-python))
+🔗 [Ver projeto no GitHub](https://github.com/azevedomarienny-stack/sistema-rh-python)
 
 ---
 
 ###  Calculadora Científica
 
-Aplicação desenvolvida em Python para realização de operações matemáticas e aplicação de conceitos de programação.
+Aplicação desenvolvida em Python para realização de operações matemáticas, utilizando conceitos de programação e interface gráfica.
 
 **Python • Interface gráfica**
 
-🔗 [Ver meus projetos]([https://github.com/azevedomarienny-stack](https://github.com/azevedomarienny-stack/calculadora-cientifica-python))
+🔗 [Ver projeto no GitHub](https://github.com/azevedomarienny-stack/calculadora-cientifica-python)
 
 ---
 
 ##  Atualmente estudando
 
-```text
-Java
-├── Programação Orientada a Objetos
-├── Collections
-├── Exceptions
-└── Spring / desenvolvimento backend
+###  Java
 
-PHP
-├── Fundamentos
-├── Desenvolvimento Web
-└── Banco de dados
+* Programação Orientada a Objetos
+* Collections
+* Exceptions
+* Fundamentos de desenvolvimento backend
+* Spring
 
-COBOL
-└── Fundamentos e programação para ambientes corporativos
-```
+###  PHP
+
+* Fundamentos da linguagem
+* Desenvolvimento Web
+* Integração com bancos de dados
+
+###  COBOL
+
+* Fundamentos da linguagem
+* Programação para ambientes corporativos
+* Conceitos de sistemas legados
 
 ---
 
@@ -123,7 +128,7 @@ COBOL
 
 Meu objetivo é conquistar uma oportunidade de **estágio em TI**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
 
-Tenho interesse especialmente em oportunidades envolvendo:
+Tenho interesse principalmente em oportunidades envolvendo:
 
 *  Desenvolvimento de Software
 *  Desenvolvimento Java
@@ -139,12 +144,25 @@ Tenho interesse especialmente em oportunidades envolvendo:
 ##  GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azevedomarienny-stack&show_icons=true&locale=pt-br&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=azevedomarienny-stack&layout=compact&locale=pt-br&hide_border=true" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=azevedomarienny-stack&show_icons=true&locale=pt-br&hide_border=true" 
+  alt="Estatísticas do GitHub de Marienny"
+  />
+
+<img 
+ height="180em" 
+ src="https://github-readme-stats.vercel.app/api/top-langs?username=azevedomarienny-stack&layout=compact&locale=pt-br&hide_border=true" 
+ alt="Linguagens mais utilizadas por Marienny"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azevedomarienny-stack&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=azevedomarienny-stack&hide_border=true" 
+    alt="GitHub Streak de Marienny"
+  />
 </p>
 
 ---
@@ -154,20 +172,35 @@ Tenho interesse especialmente em oportunidades envolvendo:
 <p align="left">
 
 <a href="https://www.linkedin.com/in/marienny-azevedo/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  <img 
+    src="https://skillicons.dev/icons?i=linkedin" 
+    width="40" 
+    height="40" 
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:azevedomarienny@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+  <img 
+    src="https://skillicons.dev/icons?i=gmail" 
+    width="40" 
+    height="40" 
+    alt="E-mail"
+  />
 </a>
 
 <a href="https://github.com/azevedomarienny-stack" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  <img 
+    src="https://skillicons.dev/icons?i=github" 
+    width="40" 
+    height="40" 
+    alt="GitHub"
+  />
 </a>
 
 </p>
 
-📄 **[Meu currículo](https://drive.google.com/file/d/1yGnNKO0qkyw1_gfzLFMp1Vypb0T8sQ6H/view)**
+📄 **[Acesse meu currículo](https://drive.google.com/file/d/1yGnNKO0qkyw1_gfzLFMp1Vypb0T8sQ6H/view)**
 
 ---
 
