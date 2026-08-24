@@ -65,7 +65,7 @@ Portal turístico desenvolvido utilizando:
 
 Projeto desenvolvido com foco em interface, responsividade, consumo de API e organização de páginas web.
 
-🔗 [Ver projeto no GitHub](https://github.com/azevedomarienny-stack)
+🔗 [Ver projeto no GitHub]([https://github.com/azevedomarienny-stac](https://github.com/azevedomarienny-stack/Bairro-do-Limoeiro-para-Turistar))
 
 ---
 
@@ -75,7 +75,7 @@ Sistema desenvolvido em **Python** com banco de dados **SQLite**, incluindo aute
 
 **Python • SQLite • bcrypt**
 
-🔗 [Ver meus projetos](https://github.com/azevedomarienny-stack)
+🔗 [Ver meus projetos]([https://github.com/azevedomarienny-stack](https://github.com/azevedomarienny-stack/Sistema-de-Login-e-Gerenciamento-de-Usu-rios))
 
 ---
 
@@ -85,7 +85,7 @@ Projeto desenvolvido em Python com foco na aplicação de conceitos de programa�
 
 **Python • POO**
 
-🔗 [Ver meus projetos](https://github.com/azevedomarienny-stack)
+🔗 [Ver meus projetos]([https://github.com/azevedomarienny-stack](https://github.com/azevedomarienny-stack/sistema-rh-python))
 
 ---
 
@@ -95,7 +95,7 @@ Aplicação desenvolvida em Python para realização de operações matemáticas
 
 **Python • Interface gráfica**
 
-🔗 [Ver meus projetos](https://github.com/azevedomarienny-stack)
+🔗 [Ver meus projetos]([https://github.com/azevedomarienny-stack](https://github.com/azevedomarienny-stack/calculadora-cientifica-python))
 
 ---
 
