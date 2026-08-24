@@ -146,23 +146,19 @@ Tenho interesse principalmente em oportunidades envolvendo:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/marienny-azevedo/" target="_blank">
-  <img 
-    src="https://skillicons.dev/icons?i=linkedin" 
-    width="40" 
-    height="40" 
-    alt="LinkedIn"
-  />
-</a>
+<p>
+   <strong>E-mail:</strong>
+  <a href="mailto:azevedomarienny@gmail.com">
+    azevedomarienny@gmail.com
+  </a>
+</p>
 
-<a href="mailto:azevedomarienny@gmail.com">
-  <img 
-    src="https://skillicons.dev/icons?i=gmail" 
-    width="40" 
-    height="40" 
-    alt="E-mail"
-  />
-</a>
+<p>
+   <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/marienny-azevedo/">
+    linkedin.com/in/marienny-azevedo
+  </a>
+</p>
 
 <a href="https://github.com/azevedomarienny-stack" target="_blank">
   <img 
