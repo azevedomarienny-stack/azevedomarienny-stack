@@ -160,15 +160,11 @@ Tenho interesse principalmente em oportunidades envolvendo:
   </a>
 </p>
 
-<a href="https://github.com/azevedomarienny-stack" target="_blank">
-  <img 
-    src="https://skillicons.dev/icons?i=github" 
-    width="40" 
-    height="40" 
-    alt="GitHub"
-  />
-</a>
-
+<p>
+   <strong>GitHub:</strong>
+  <a href="https://github.com/azevedomarienny-stack">
+    github.com/azevedomarienny-stack
+  </a>
 </p>
 
 📄 **[Meu currículo](https://drive.google.com/file/d/1yGnNKO0qkyw1_gfzLFMp1Vypb0T8sQ6H/view)**
