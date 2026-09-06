@@ -46,10 +46,7 @@ Atualmente estou desenvolvendo minha experiência por meio de projetos práticos
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,vscode" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,vscode" />
+  <img src="https://cdn.simpleicons.org/xampp" height="40" alt="XAMPP" />
 </p>
 
 **Ambientes:** XAMPP (Apache, PHP e MySQL/MariaDB)
