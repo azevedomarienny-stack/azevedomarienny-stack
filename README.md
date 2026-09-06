@@ -42,11 +42,17 @@ Atualmente estou desenvolvendo minha experiência por meio de projetos práticos
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
 </p>
 
-###  Cloud, sistemas e ferramentas
+###  Cloud, sistemas, ferramentas e ambientes
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,vscode" />
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,vscode" />
+</p>
+
+**Ambientes:** XAMPP (Apache, PHP e MySQL/MariaDB)
 
 ###  Design
 
