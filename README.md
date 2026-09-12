@@ -61,6 +61,17 @@ Atualmente estou desenvolvendo minha experiência por meio de projetos práticos
 
 ##  Projetos em destaque
 
+### NexusGate
+
+Load balancer e proxy reverso TCP de alta performance com foco em resiliência e observabilidade em tempo real.
+
+**C++20 • Winsock2 • Multithreading • SQLite • JavaScript (Chart.js)**
+
+Projeto desenvolvido para demonstrar conceitos avançados de sistemas de infraestrutura e redes, incluindo gerenciamento de concorrência com Thread Pool, automação de health checks, controle de tráfego por Rate Limiting e persistência de dados históricos. Acompanha um dashboard web completo para monitoramento de métricas.
+
+🔗 [Ver projeto no GitHub](https://github.com/azevedomarienny-stack/NexusGate)
+
+
 ###  Bairro do Limoeiro
 
 Portal turístico desenvolvido utilizando:
