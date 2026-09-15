@@ -71,6 +71,7 @@ Projeto desenvolvido para demonstrar conceitos avançados de sistemas de infraes
 
 🔗 [Ver projeto no GitHub](https://github.com/azevedomarienny-stack/NexusGate)
 
+---
 
 ###  Bairro do Limoeiro
 
