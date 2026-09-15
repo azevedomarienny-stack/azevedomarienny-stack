@@ -181,7 +181,7 @@ Tenho interesse principalmente em oportunidades envolvendo:
   </a>
 </p>
 
-📄 **[Meu currículo](https://drive.google.com/file/d/1yGnNKO0qkyw1_gfzLFMp1Vypb0T8sQ6H/view?usp=drive_link)**
+📄 **[Meu currículo](https://drive.google.com/file/d/1WqSb2V1huLe2B63oJOy5hxnxCYI3JslL/view?usp=drive_link)**
 
 ---
 
