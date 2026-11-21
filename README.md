@@ -173,7 +173,7 @@ Tenho interesse principalmente em oportunidades envolvendo:
   <a href="https://github.com/azevedomarienny-stack">github.com/azevedomarienny-stack</a>
 </p>
 
-**[Meu currículo](https://drive.google.com/file/d/1WqSb2V1huLe2B63oJOy5hxnxCYI3JslL/view?usp=sharing)**
+**[Meu currículo](https://drive.google.com/file/d/1FESuZAAl1_pPDS0FujWcfC2h_1k5jiZi/view?usp=sharing)**
 
 ---
 
